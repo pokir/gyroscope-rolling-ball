@@ -1,4 +1,4 @@
-# gyroscope-ball-game
+# gyroscope-rolling-ball
 
 A ball game (marble rolling on table) written in Python for Android on Termux.
 
